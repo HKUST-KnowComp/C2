@@ -9,9 +9,9 @@ The implementation for the paper: Joint Coreference Resolution and Character Lin
 
 
 ## Train the model
-To train the base model with fp16, you can run.
+To train the base model with fp16, you can run \
+`bash train_spanbert_base.sh` \
 If you did not have install apex, you can remove the flag of `--fp16`.
-`bash train_spanbert_base.sh` 
 
 To run spanbert_large model you need to have at least 24GB memory GPU\
 `bash train_spanbert_large.sh` 
