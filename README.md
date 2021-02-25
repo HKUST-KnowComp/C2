@@ -1,6 +1,6 @@
 # C2
-The implementation for the paper Joint Coreference Resolution and Character Linking for Multiparty Conversation
-
+The implementation for the paper Joint Coreference Resolution and Character Linking for Multiparty Conversation 
+https://arxiv.org/abs/2101.11204
 
 ## Preprocess the character-identification data
 `python preprocess_tokenization.py` \
