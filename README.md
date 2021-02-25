@@ -1,5 +1,5 @@
 # C2
-The implementation for the paper: Joint Coreference Resolution and Character Linkingfor Multiparty Conversation
+The implementation for the paper: Joint Coreference Resolution and Character Linking for Multiparty Conversation
 
 
 ## Preprocess the character-identification data
